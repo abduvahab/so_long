@@ -1,5 +1,8 @@
 # so_long (115/125)
 
+![image](https://user-images.githubusercontent.com/100579404/215267282-62aca28f-3d30-4e4c-9f78-fdb4a16d81ca.png)
+
+
 # Description
 
 This is a 42 School's project. The project consists in creating a little 2D game with the MiniLibX, the school's graphic library.
