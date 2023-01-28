@@ -15,6 +15,10 @@ To play this game you can use any map of your choice as long follow the followin
 - Must have only one exit, only one player and at least one collectible
 
 # Control of play
+- make
+- ./so_long maps/*.ber 
+example : ./so_long maps/test.ber
+
 You can use AWSD to move UP, DOWN, LEFT, RIGHT.
 
 For restart the game press ESC or click on the red cross of window. If you touch the enemy you loose the game. To win the game its necessary pick up all collectible and pass for the exit.
